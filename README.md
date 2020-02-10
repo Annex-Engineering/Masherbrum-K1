@@ -9,6 +9,8 @@ Our discord server can be found here: https://discord.gg/MzTR3zE
 The goals of this project are as follows:
 
 - Fully Enclosed Design
+- 2020 and 2040 Frame Members
+- Insulated Build Chamber (Not Heated)
 - Build Volumes of ~200^3 to 400^3 (use of whole plate available) + additional area to purge and wipe
 - Direct Drive Extruder
 - Shortest Belt Paths Possible, 4 Motors, 2 Per X, 2 Per Y Axis
