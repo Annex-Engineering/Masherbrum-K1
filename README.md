@@ -6,6 +6,10 @@ This is an entirely scratch design, based on the efforts of the "Hypercube Overk
 
 Our discord server can be found here: https://discord.gg/MzTR3zE
 
+BOM/Sourcing Guide for a 250x250x200 Build can be found here: https://docs.google.com/spreadsheets/d/1O3eyVuQ6M4F03MJSDs4Z71_XyNjXL5HFTZr1jsaAtRc/edit?usp=sharing
+
+Frame Calculator: https://docs.google.com/spreadsheets/d/1OafYgwpRugKy69tp4yEFCRedxJVDkKtnEzjKQJuyjoY/edit?usp=sharing
+
 The goals of this project are as follows:
 
 - Fully Enclosed Design
@@ -14,7 +18,7 @@ The goals of this project are as follows:
 - Build Volumes of ~200^3 to 400^3 (use of whole plate available) + additional area to purge and wipe
 - Direct Drive Extruder
 - Shortest Belt Paths Possible, 4 Motors, 2 Per X, 2 Per Y Axis
-- Moving Gantry, not bed
+- Moving Gantry, not Bed
 - MGN9 Rails (Z Axis)
 - MGN9 and MGN12 Rails (X, Y)
 - 9mm Belts on XY, 1204 Ballscrews on Z to lift gantry
