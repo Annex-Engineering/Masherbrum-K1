@@ -23,6 +23,7 @@ The goals of this project are as follows:
 - MGN9 and MGN12 Rails (X, Y)
 - 9mm Belts on XY, 1204 Ballscrews on Z to lift gantry
 - Heavy Duty Bearings
+- NEMA17 Motors XY, NEMA17 or NEMA23 Z
 - LDO Stepper Motors (Optional but Recommended)
 - Minimal Printed Parts (ABS Required, Filled Nylon Recommended)
 - 32 bit controller standard (Dual SKRs)
