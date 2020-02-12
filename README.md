@@ -6,7 +6,7 @@ This is an entirely scratch design, based on the efforts of the "Hypercube Overk
 
 Our discord server can be found here: https://discord.gg/MzTR3zE
 
-BOM/Sourcing Guide for a 250x250x200 Build can be found here: https://docs.google.com/spreadsheets/d/1O3eyVuQ6M4F03MJSDs4Z71_XyNjXL5HFTZr1jsaAtRc/edit?usp=sharing
+BOM/Sourcing Guide for a 250x250x250 Build can be found here: https://docs.google.com/spreadsheets/d/1O3eyVuQ6M4F03MJSDs4Z71_XyNjXL5HFTZr1jsaAtRc/edit?usp=sharing
 
 Frame Calculator: https://docs.google.com/spreadsheets/d/1OafYgwpRugKy69tp4yEFCRedxJVDkKtnEzjKQJuyjoY/edit?usp=sharing
 
