@@ -30,9 +30,9 @@ The goals of this project are as follows:
 - 24V Power Standard
 - AC Heated Bed, 12mm MIC6 Plate with Magnetic Build Surface
 
- ![Image of K1 with Panels](https://raw.githubusercontent.com/Annex-Engineering/Masherbrum-K1/master/Images/ISO_Lit.JPG?raw=true)
+ ![Image of K1 with Panels](https://raw.githubusercontent.com/Annex-Engineering/Masherbrum-K1/master/Images/K1_ISO_Lit.JPG?raw=true)
  
- ![Image of K1 without Panels](https://raw.githubusercontent.com/Annex-Engineering/Masherbrum-K1/master/Images/ISO_No_Panels.JPG?raw=true)
+ ![Image of K1 without Panels](https://raw.githubusercontent.com/Annex-Engineering/Masherbrum-K1/master/Images/K1_ISO_No_Panels.JPG?raw=true)
  
  ![Image of K1 Toolhead](https://raw.githubusercontent.com/Annex-Engineering/Masherbrum-K1/master/Images/Toolhead.JPG?raw=true)
   
