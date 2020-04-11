@@ -25,7 +25,7 @@ The goals of this project are as follows:
 - Heavy Duty Bearings
 - NEMA17 Motors XY, NEMA17 or NEMA23 Z
 - LDO Stepper Motors (Optional but Recommended)
-- Minimal Printed Parts (ABS Required, Filled Nylon Recommended)
+- Minimal Printed Parts (ABS Required)
 - 32 bit controller standard (Dual SKRs)
 - 24V Power Standard
 - AC Heated Bed, 12mm MIC6 Plate with Magnetic Build Surface
