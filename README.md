@@ -37,11 +37,11 @@ Frame Calculator: https://docs.google.com/spreadsheets/d/1OafYgwpRugKy69tp4yEFCR
  - Release 2.0: New Gantry
 
 # Renders
- ![Image of K1 with Panels](Images/K1_ISO_Lit.JPG?raw=true)
+ ![Image of K1 with Panels](Release_1/Images/K1_ISO_Lit.JPG?raw=true)
  
- ![Image of K1 without Panels](Images/K1_ISO_No_Panels.JPG?raw=true)
+ ![Image of K1 without Panels](Release_1/Images/K1_ISO_No_Panels.JPG?raw=true)
  
- ![Image of K1 Electrical Bay](Images/Electronics_Bay.JPG?raw=true)
+ ![Image of K1 Electrical Bay](Release_1/Images/Electronics_Bay.JPG?raw=true)
  
- ![Image of K1 Toolhead](Images/Toolhead.JPG?raw=true)
+ ![Image of K1 Toolhead](Release_1/Images/Toolhead.JPG?raw=true)
   
