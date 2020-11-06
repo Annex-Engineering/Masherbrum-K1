@@ -20,18 +20,16 @@ Frame Calculator: https://docs.google.com/spreadsheets/d/1OafYgwpRugKy69tp4yEFCR
 - Moving Gantry, not Bed
 - MGN9 Rails (Z Axis)
 - MGN9 and MGN12 Rails (X, Y)
-- 9mm Belts on XY, 1204 Ballscrews on Z to lift gantry
+- 9mm Belts on XY, 1204 Ballscrews or 15mm Belts on Z to lift gantry
 - Heavy Duty Bearings
 - NEMA17 Motors XYZ
 - LDO Stepper Motors (Optional but Recommended)
 - Minimal Printed Parts (ABS Required)
-- 32 bit controller standard (Dual SKRs)
+- 32 bit controller standard (Dual SKRs or S6s)
 - 24V Power Standard
 - AC Heated Bed, 12mm MIC6 Plate with Magnetic Build Surface
 
 # Release Schedule:
- - Release 1 - RC2: Final True Release
- - Release 1.0: Bug Fixes from Final Testing of RC2
  - Release 1.1: Belted Z Drive Option
  - Release 1.2: New Front Door Design
  - Release 2.0: New Gantry
