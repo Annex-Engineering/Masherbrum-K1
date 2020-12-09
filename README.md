@@ -29,11 +29,6 @@ Frame Calculator: https://docs.google.com/spreadsheets/d/1OafYgwpRugKy69tp4yEFCR
 - 24V Power Standard
 - AC Heated Bed, 12mm MIC6 Plate with Magnetic Build Surface
 
-# Release Schedule:
- - Release 1.1: Belted Z Drive Option
- - Release 1.2: New Front Door Design
- - Release 2.0: New Gantry
-
 # Renders
  ![Image of K1 with Panels](Archive/Release_1/Images/K1_ISO_Lit.JPG?raw=true)
  
