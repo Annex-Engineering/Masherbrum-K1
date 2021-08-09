@@ -1,4 +1,4 @@
-# Masherbrum (K1) Printer - Release 2
+# Masherbrum (K1) Printer - Release 2.0.1
 
 Project Masherbrum (K1 for short) is a Medium Format, Direct Drive, Fully Enclosed FDM Printer.
 
@@ -25,7 +25,7 @@ Frame Calculator: https://docs.google.com/spreadsheets/d/1OafYgwpRugKy69tp4yEFCR
 - MGN12C Rails for XYZ Stationary Rails
 - MGN12C Rails with 1515 Backers for XY Cross (Moving Members)
 - 12mm Belts on XY Motion 
-- 1204 Ballscrews with Oldham Joints or 15mm 3HTD Belts with Planetary Gearbox Motors or 60:1 Worm Drive on Z to lift the Gantry
+- 15mm 3HTD Belts with 60:1 Worm Drive on Z to lift the Gantry
 - Heavy Duty Bearings
 - NEMA17 Motors XYZ
 
@@ -36,12 +36,12 @@ Frame Calculator: https://docs.google.com/spreadsheets/d/1OafYgwpRugKy69tp4yEFCR
 - 24V Power Standard
 - Mains Bed
 
-![Image of Machine with Panels](Release_2/Images/K1_ISO_CAD_1.PNG?raw=true)
+![Image of Machine with Panels](Release_2_0_1/Images/K1_ISO_CAD_1.PNG?raw=true)
 
-![Image of Machine without Panels](Release_2/Images/K1_ISO_CAD_2.PNG?raw=true)
+![Image of Machine without Panels](Release_2_0_1/Images/K1_ISO_CAD_2.PNG?raw=true)
 
-![Image of Gantry Assembly](Release_2/Images/K1_Gantry_CAD_1.PNG?raw=true)
+![Image of Gantry Assembly](Release_2_0_1/Images/K1_Gantry_CAD_1.PNG?raw=true)
 
-![Image of Toolhead 1](Release_2/Images/1800px_k2_r2_render_toolhead_lower.png?raw=true)
+![Image of Toolhead 1](Release_2_0_1/Images/1800px_k2_r2_render_toolhead_lower.png?raw=true)
 
-![Image of Toolhead 2](Release_2/Images/1800px_k2_r2_render_toolhead_upper.png?raw=true)
+![Image of Toolhead 2](Release_2_0_1/Images/1800px_k2_r2_render_toolhead_upper.png?raw=true)
