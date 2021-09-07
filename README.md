@@ -1,4 +1,4 @@
-# Masherbrum (K1) Printer - Release 2.0.1
+# Masherbrum (K1) Printer - Release 2.1 - Beta
 
 Project Masherbrum (K1 for short) is a Medium Format, Direct Drive, Fully Enclosed FDM Printer.
 
@@ -24,8 +24,9 @@ Frame Calculator: https://docs.google.com/spreadsheets/d/1OafYgwpRugKy69tp4yEFCR
 
 - MGN12C Rails for XYZ Stationary Rails
 - MGN12C Rails with 1515 Backers for XY Cross (Moving Members)
-- 12mm Belts on XY Motion 
-- 15mm 3HTD Belts with 60:1 Worm Drive on Z to lift the Gantry
+- 12mm 2GT Belts on XY Motion 
+- 15mm 3HTD Belts with 60:1 Worm Drive on Z to lift the Gantry 
+	 - Hybrid Laser Cut Metal and Printed Part Construction
 - Heavy Duty Bearings
 - NEMA17 Motors XYZ
 
