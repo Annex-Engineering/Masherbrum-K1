@@ -37,12 +37,12 @@ Frame Calculator: https://docs.google.com/spreadsheets/d/1OafYgwpRugKy69tp4yEFCR
 - 24V Power Standard
 - Mains Bed
 
-![Image of Machine with Panels](Archive/Release_2_0_1/Images/K1_ISO_CAD_1.PNG?raw=true)
+![Image of Machine with Panels](Release_2_1/Images/K1_ISO_CAD_1.PNG?raw=true)
 
-![Image of Machine without Panels](Archive/Release_2_0_1/Images/K1_ISO_CAD_2.PNG?raw=true)
+![Image of Machine without Panels](Release_2_1/Images/K1_ISO_CAD_2.PNG?raw=true)
 
-![Image of Gantry Assembly](Archive/Release_2_0_1/Images/K1_Gantry_CAD_1.PNG?raw=true)
+![Image of Gantry Assembly](Release_2_1/Images/K1_Gantry_CAD_1.PNG?raw=true)
 
-![Image of Toolhead 1](Archive/Release_2_0_1/Images/1800px_k2_r2_render_toolhead_lower.png?raw=true)
+![Image of Toolhead 1](Release_2_1/Images/1800px_k2_r2_render_toolhead_lower.png?raw=true)
 
-![Image of Toolhead 2](Archive/Release_2_0_1/Images/1800px_k2_r2_render_toolhead_upper.png?raw=true)
+![Image of Toolhead 2](Release_2_1/Images/1800px_k2_r2_render_toolhead_upper.png?raw=true)
