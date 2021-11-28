@@ -1,4 +1,4 @@
-# Masherbrum (K1) Printer - Release 2.1 - Beta
+# Masherbrum (K1) Printer - Release 2.1
 
 Project Masherbrum (K1 for short) is a Medium Format, Direct Drive, Fully Enclosed FDM Printer.
 
@@ -33,7 +33,7 @@ Frame Calculator: https://docs.google.com/spreadsheets/d/1OafYgwpRugKy69tp4yEFCR
 - Minimal Printed Parts (ABS or ASA Required)
 
 - Fysetc Spider or S6 Controller + BTT Expander Board with Klipper Required
-- Mosquito Style Hot End Standard, Dragon Style Hot End Supported
+- Mosquito Style, Dragon Style, Mosquito Magnum+ and Nitram's VolcoMosquito hotends supported
 - 24V Power Standard
 - Mains Bed
 
