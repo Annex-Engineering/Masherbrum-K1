@@ -1,4 +1,4 @@
-# Masherbrum (K1) Printer - Release 2.1
+# Masherbrum (K1) Printer - Release 2.2
 
 Project Masherbrum (K1 for short) is a Medium Format, Direct Drive, Fully Enclosed FDM Printer.
 
@@ -35,16 +35,16 @@ Frame Calculator: https://docs.google.com/spreadsheets/d/1OafYgwpRugKy69tp4yEFCR
 - Minimal Printed Parts (ABS or ASA Required)
 
 - Fysetc Spider or S6 Controller + BTT Expander Board with Klipper Required
-- Mosquito Style, Dragon Style, Mosquito Magnum+ and Nitram's VolcoMosquito hotends supported
-- 24V Power Standard
+- Mosquito Style, Dragon Style, Mosquito Magnum+, Nitram's VolcoMosquito, and many other hotends supported
+- 24V Power Standard, 48V Optional and Preferred
 - Mains Bed
 
-![Image of Machine with Panels](Release_2_1/Images/K1_ISO_CAD_1.PNG?raw=true)
+![Image of Machine with Panels](Release_2_2/Images/K1_ISO_CAD_1.PNG?raw=true)
 
-![Image of Machine without Panels](Release_2_1/Images/K1_ISO_CAD_2.PNG?raw=true)
+![Image of Machine without Panels](Release_2_2/Images/K1_ISO_CAD_2.PNG?raw=true)
 
-![Image of Gantry Assembly](Release_2_1/Images/K1_Gantry_CAD_1.PNG?raw=true)
+![Image of Gantry Assembly](Release_2_2/Images/K1_Gantry_CAD_1.PNG?raw=true)
 
-![Image of Toolhead 1](Release_2_1/Images/1800px_k2_r2_render_toolhead_lower.png?raw=true)
+![Image of Toolhead 1](Release_2_2/Images/1800px_k2_r2_render_toolhead_lower.png?raw=true)
 
-![Image of Toolhead 2](Release_2_1/Images/1800px_k2_r2_render_toolhead_upper.png?raw=true)
+![Image of Toolhead 2](Release_2_2/Images/1800px_k2_r2_render_toolhead_upper.png?raw=true)
