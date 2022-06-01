@@ -32,7 +32,7 @@ Frame Calculator: https://docs.google.com/spreadsheets/d/1OafYgwpRugKy69tp4yEFCR
 - Heavy Duty Bearings
 - NEMA17 Motors XYZ
 
-- Minimal Printed Parts (ABS or ASA Required)
+- Minimal Printed Parts (ABS or ASA Required, PC Recommended for motion components)
 
 - Fysetc Spider or S6 Controller + BTT Expander Board with Klipper Required
 - Mosquito Style, Dragon Style, Mosquito Magnum+, Nitram's VolcoMosquito, and many other hotends supported
