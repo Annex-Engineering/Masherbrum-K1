@@ -1,7 +1,8 @@
 # Masherbrum (K1) Printer
 
-# The Current Release is: Release 3 - Beta 1
+## The Current Release is: Release 3 - Beta 1
 
+## Info:
 Project Masherbrum (K1 for short) is a Medium Format, Direct Drive, Fully Enclosed FDM Printer.
 
 This is an entirely scratch design, based on the efforts of the "Hypercube Overkill Project" for the XY Motion System, and inspired by all other prior repraps.
@@ -14,7 +15,7 @@ BOM/Sourcing Guide for a 250x250x250 Build can be found here: https://docs.googl
 
 Frame Calculator: https://docs.google.com/spreadsheets/d/1OafYgwpRugKy69tp4yEFCRedxJVDkKtnEzjKQJuyjoY/edit?usp=sharing
 
-# Stats:
+## Stats:
 - Fully Enclosed Design
 - 2020, and 2040 Frame Members, 4040 Gantry Frame
 - Insulated Build Chamber (Not Heated)
