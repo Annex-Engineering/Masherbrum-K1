@@ -1,4 +1,6 @@
-# Masherbrum (K1) Printer - Release 2.2
+# Masherbrum (K1) Printer
+
+# The Current Release is: Release 3 - Beta 1
 
 Project Masherbrum (K1 for short) is a Medium Format, Direct Drive, Fully Enclosed FDM Printer.
 
@@ -24,27 +26,19 @@ Frame Calculator: https://docs.google.com/spreadsheets/d/1OafYgwpRugKy69tp4yEFCR
 - Shortest Belt Paths Possible, 4 Motors, 2 Per X, 2 Per Y Axis
 - Moving Gantry, Fixed Bed
 
-- MGN12C Rails for XYZ Stationary Rails
-- MGN12C Rails with 1515 Backers for XY Cross (Moving Members)
+- MGN12H Rails for XY Stationary Rails
+- MGN15H Rails for XY Cross (Moving Members)
+- MGN15H Rails for Z - will be provided in a future update
+- Laser cut metal parts throughout for stiffness and strength (steel recommended in most places, aluminum on moving components)
 - 12mm 2GT Belts on XY Motion 
-- 15mm 3HTD Belts with 60:1 Worm Drive on Z to lift the Gantry 
+- 15mm 3HTD Belts with 30:1 Worm Drive on Z to lift the Gantry 
 	 - Hybrid Laser Cut Metal and Printed Part Construction
 - Heavy Duty Bearings
 - NEMA17 Motors XYZ
 
-- Minimal Printed Parts (ABS or ASA Required, PC Recommended for motion components)
+- Minimal Printed Parts (ASA Required, PC Recommended for motion components)
 
 - Fysetc Spider or S6 Controller + BTT Expander Board with Klipper Required
 - Mosquito Style, Dragon Style, Mosquito Magnum+, Nitram's VolcoMosquito, and many other hotends supported
 - 24V Power Standard, 48V Optional and Preferred
 - Mains Bed
-
-![Image of Machine with Panels](Release_2_2/Images/K1_ISO_CAD_1.PNG?raw=true)
-
-![Image of Machine without Panels](Release_2_2/Images/K1_ISO_CAD_2.PNG?raw=true)
-
-![Image of Gantry Assembly](Release_2_2/Images/K1_Gantry_CAD_1.PNG?raw=true)
-
-![Image of Toolhead 1](Release_2_2/Images/1800px_k2_r2_render_toolhead_lower.png?raw=true)
-
-![Image of Toolhead 2](Release_2_2/Images/1800px_k2_r2_render_toolhead_upper.png?raw=true)
