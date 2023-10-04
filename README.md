@@ -1,6 +1,6 @@
 # Masherbrum (K1) Printer
 
-## The Current Release is: Release 3 - Beta 1
+## The Current Release is: Release 3 for XY Gantry and Release 2.2 for Z Drive
 
 ## Info:
 Project Masherbrum (K1 for short) is a Medium Format, Direct Drive, Fully Enclosed FDM Printer.
@@ -29,7 +29,7 @@ Frame Calculator: https://docs.google.com/spreadsheets/d/1OafYgwpRugKy69tp4yEFCR
 
 - MGN12H Rails for XY Stationary Rails
 - MGN15H Rails for XY Cross (Moving Members)
-- MGN15H Rails for Z - will be provided in a future update
+- MGN12C Rails for Z - using 2.2 parts
 - Laser cut metal parts throughout for stiffness and strength (steel recommended in most places, aluminum on moving components)
 - 12mm 2GT Belts on XY Motion 
 - 15mm 3HTD Belts with 30:1 Worm Drive on Z to lift the Gantry 
