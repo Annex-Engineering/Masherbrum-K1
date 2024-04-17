@@ -1,6 +1,6 @@
 # Masherbrum (K1) Printer
 
-## The Current Release is: Release 3 for XY Gantry and Release 2.2 for Z Drive
+## Please Note: As of 04-09-2024, The Final Release of K1 is: Release 3 for XY Gantry and Release 2.2 for Z Drive, What you See is What you Get
 
 ## Info:
 Project Masherbrum (K1 for short) is a Medium Format, Direct Drive, Fully Enclosed FDM Printer.
@@ -17,23 +17,22 @@ Frame Calculator: https://docs.google.com/spreadsheets/d/1OafYgwpRugKy69tp4yEFCR
 
 ## Stats:
 - Fully Enclosed Design
-- 2020, and 2040 Frame Members, 4040 Gantry Frame
+- 2020, 2040, and 4040 Frame Members
 - Insulated Build Chamber (Not Heated)
 - Build Volumes of ~200^3 to 500^3 (use of whole plate available) + additional area to purge and wipe
      - Z can theoretically be 1m tall, just not fully supported or tested
 
-- Direct Drive Extruder (Sherpa Mini or Ascender)
+- Direct Drive Extruder (Sherpa Mini)
 
 - Shortest Belt Paths Possible, 4 Motors, 2 Per X, 2 Per Y Axis
 - Moving Gantry, Fixed Bed
 
 - MGN12H Rails for XY Stationary Rails
 - MGN15H Rails for XY Cross (Moving Members)
-- MGN12C Rails for Z - using 2.2 parts
-- Laser cut metal parts throughout for stiffness and strength (steel recommended in most places, aluminum on moving components)
-- 12mm 2GT Belts on XY Motion 
-- 15mm 3HTD Belts with 30:1 Worm Drive on Z to lift the Gantry 
-	 - Hybrid Laser Cut Metal and Printed Part Construction
+- MGN15H Rails for Z
+- Laser cut and machined metal parts throughout for stiffness and strength (steel recommended in most places, aluminum on moving components)
+- 20mm 2GT Belts on XY Motion 
+- 20mm 2GT Belts with 20:1 Worm Drive on Z to lift the Bed 
 - Heavy Duty Bearings
 - NEMA17 Motors XYZ
 
